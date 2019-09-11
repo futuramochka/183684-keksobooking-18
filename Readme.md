@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Дубенко](https://up.htmlacademy.ru/javascript/18/user/183684).
-* Наставник: `Неизвестно`.
+* Наставник: `Лариса Клец`.
 
 ---
 
